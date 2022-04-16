@@ -9,10 +9,10 @@ import HelloWorld from './components/HelloWorld.vue'
 <img src="./assets/as3_picture.jpg" class="object-contain m-auto w-3/12 mb-10 rounded-lg" alt="me">
 <br>
 <p> Adam Syafi 19FTT1188</p>
-<p> 19</p>
-<p> Male</p>
-<p> 173cm Tall</p>
-<p> 64Kg</p>
+<p> 19 </p>
+<p>  Male </p>
+<p> 173cm Tall </p>
+<p> 64Kg </p>
 </div>
 
 </template>
@@ -25,5 +25,10 @@ import HelloWorld from './components/HelloWorld.vue'
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+p{
+ font-weight: bold;
+ color: white;
+ font-size: 25px;
 }
 </style>
