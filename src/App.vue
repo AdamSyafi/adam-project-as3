@@ -16,6 +16,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <p>  Male </p>
 <p> 173cm Tall </p>
 <p> 64Kg </p>
+<p> Bahit was here </p>
 </div>
 
 </template>
