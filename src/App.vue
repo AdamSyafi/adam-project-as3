@@ -10,7 +10,9 @@ import HelloWorld from './components/HelloWorld.vue'
 <br>
 <p> Adam Syafi 19FTT1188</p>
 <p> 19</p>
-<p>  </p>
+<p> Male</p>
+<p> 173cm Tall</p>
+<p> 64Kg</p>
 </div>
 
 </template>
