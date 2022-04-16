@@ -6,8 +6,11 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
 <div class="bg-green-900 w-1/8 p-10 h-auto rounded-lg">
-<img src="./assets/as3_picture.jpg" class="object-contain h-48 w-96 rounded-lg" alt="">
-<p> Adam Syafiq 19FTT1188</p>
+<img src="./assets/as3_picture.jpg" class="object-contain m-auto w-3/12 mb-10 rounded-lg" alt="me">
+<br>
+<p> Adam Syafi 19FTT1188</p>
+<p> 19</p>
+<p>  </p>
 </div>
 
 </template>
