@@ -9,6 +9,9 @@ import HelloWorld from './components/HelloWorld.vue'
 <img src="./assets/as3_picture.jpg" class="object-contain m-auto w-3/12 mb-10 rounded-lg" alt="me">
 <br>
 <p> Adam Syafi 19FTT1188</p>
+<p> HND in Web development </p>
+<p> Intake 9 </p>
+<p> School of ICT </p>
 <p> 19 </p>
 <p>  Male </p>
 <p> 173cm Tall </p>
