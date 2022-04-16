@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
 <div class="bg-green-900 w-1/8 p-10 h-auto rounded-lg">
 <img src="./assets/as3_picture.jpg" class="object-contain h-48 w-96 rounded-lg" alt="">
-<p> Adam Syafi 19FTT1188</p>
+<p> Adam Syafi - 19FTT1188</p>
 </div>
 
 </template>
